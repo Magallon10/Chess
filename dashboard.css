@@ -8,21 +8,23 @@
     float: left;
     width: 80px;
     height: 80px;
-    background-color: #a3892a;
+    background-color: #000000;
     font-size:50px;
     text-align:center;
     display: table-cell;
     vertical-align:middle;
+    color: #ffffff;
 }
 .white {
     float: left;
     width: 80px;
     height: 80px;
-    background-color: #d9bd55;
+    background-color: #ffffff;
     font-size:50px;
     text-align:center;
     display: table-cell;
     vertical-align:middle; 
+    color: #000000;
 }
 .blanca{
     width: 60px;
